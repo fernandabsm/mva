@@ -1,0 +1,132 @@
+>>>>>>>>>>>>>>>>>>>>>>>>> Iteration 1 <<<<<<<<<<<<<<<<<<<<<<<<<
+Response time CPU = 0.011 
+Response time Disco A = 0.060 
+Response time Disco B = 0.050 
+System response time: 0.860 
+System throughput: 4.653 
+Queue length CPU = 0.743 
+Throughput CPU = 65.147 
+Queue length Disco A = 1.396 
+Throughput Disco A = 23.267 
+Queue length Disco B = 1.861 
+Throughput Disco B = 37.227 
+>>>>>>>>>>>>>>>>>>>>>>>>> Iteration 2 <<<<<<<<<<<<<<<<<<<<<<<<<
+Response time CPU = 0.009 
+Response time Disco A = 0.061 
+Response time Disco B = 0.060 
+System response time: 0.910 
+System throughput: 4.393 
+Queue length CPU = 0.546 
+Throughput CPU = 61.505 
+Queue length Disco A = 1.349 
+Throughput Disco A = 21.966 
+Queue length Disco B = 2.105 
+Throughput Disco B = 35.146 
+>>>>>>>>>>>>>>>>>>>>>>>>> Iteration 3 <<<<<<<<<<<<<<<<<<<<<<<<<
+Response time CPU = 0.008 
+Response time Disco A = 0.060 
+Response time Disco B = 0.064 
+System response time: 0.930 
+System throughput: 4.301 
+Queue length CPU = 0.484 
+Throughput CPU = 60.215 
+Queue length Disco A = 1.298 
+Throughput Disco A = 21.505 
+Queue length Disco B = 2.218 
+Throughput Disco B = 34.408 
+>>>>>>>>>>>>>>>>>>>>>>>>> Iteration 4 <<<<<<<<<<<<<<<<<<<<<<<<<
+Response time CPU = 0.008 
+Response time Disco A = 0.059 
+Response time Disco B = 0.067 
+System response time: 0.938 
+System throughput: 4.267 
+Queue length CPU = 0.464 
+Throughput CPU = 59.732 
+Queue length Disco A = 1.263 
+Throughput Disco A = 21.333 
+Queue length Disco B = 2.273 
+Throughput Disco B = 34.133 
+>>>>>>>>>>>>>>>>>>>>>>>>> Iteration 5 <<<<<<<<<<<<<<<<<<<<<<<<<
+Response time CPU = 0.008 
+Response time Disco A = 0.058 
+Response time Disco B = 0.068 
+System response time: 0.941 
+System throughput: 4.253 
+Queue length CPU = 0.457 
+Throughput CPU = 59.536 
+Queue length Disco A = 1.242 
+Throughput Disco A = 21.263 
+Queue length Disco B = 2.300 
+Throughput Disco B = 34.020 
+>>>>>>>>>>>>>>>>>>>>>>>>> Iteration 6 <<<<<<<<<<<<<<<<<<<<<<<<<
+Response time CPU = 0.008 
+Response time Disco A = 0.058 
+Response time Disco B = 0.068 
+System response time: 0.942 
+System throughput: 4.246 
+Queue length CPU = 0.455 
+Throughput CPU = 59.449 
+Queue length Disco A = 1.230 
+Throughput Disco A = 21.232 
+Queue length Disco B = 2.315 
+Throughput Disco B = 33.971 
+>>>>>>>>>>>>>>>>>>>>>>>>> Iteration 7 <<<<<<<<<<<<<<<<<<<<<<<<<
+Response time CPU = 0.008 
+Response time Disco A = 0.058 
+Response time Disco B = 0.068 
+System response time: 0.943 
+System throughput: 4.243 
+Queue length CPU = 0.454 
+Throughput CPU = 59.408 
+Queue length Disco A = 1.224 
+Throughput Disco A = 21.217 
+Queue length Disco B = 2.322 
+Throughput Disco B = 33.947 
+>>>>>>>>>>>>>>>>>>>>>>>>> Iteration 8 <<<<<<<<<<<<<<<<<<<<<<<<<
+Response time CPU = 0.008 
+Response time Disco A = 0.058 
+Response time Disco B = 0.069 
+System response time: 0.943 
+System throughput: 4.242 
+Queue length CPU = 0.454 
+Throughput CPU = 59.388 
+Queue length Disco A = 1.220 
+Throughput Disco A = 21.210 
+Queue length Disco B = 2.326 
+Throughput Disco B = 33.936 
+>>>>>>>>>>>>>>>>>>>>>>>>> Iteration 9 <<<<<<<<<<<<<<<<<<<<<<<<<
+Response time CPU = 0.008 
+Response time Disco A = 0.057 
+Response time Disco B = 0.069 
+System response time: 0.943 
+System throughput: 4.241 
+Queue length CPU = 0.454 
+Throughput CPU = 59.377 
+Queue length Disco A = 1.218 
+Throughput Disco A = 21.206 
+Queue length Disco B = 2.328 
+Throughput Disco B = 33.930 
+>>>>>>>>>>>>>>>>>>>>>>>>> Iteration 10 <<<<<<<<<<<<<<<<<<<<<<<<<
+Response time CPU = 0.008 
+Response time Disco A = 0.057 
+Response time Disco B = 0.069 
+System response time: 0.943 
+System throughput: 4.241 
+Queue length CPU = 0.454 
+Throughput CPU = 59.372 
+Queue length Disco A = 1.217 
+Throughput Disco A = 21.204 
+Queue length Disco B = 2.329 
+Throughput Disco B = 33.927 
+>>>>>>>>>>>>>>>>>>>>>>>>> Iteration 11 <<<<<<<<<<<<<<<<<<<<<<<<<
+Response time CPU = 0.008 
+Response time Disco A = 0.057 
+Response time Disco B = 0.069 
+System response time: 0.943 
+System throughput: 4.241 
+Queue length CPU = 0.454 
+Throughput CPU = 59.369 
+Queue length Disco A = 1.217 
+Throughput Disco A = 21.203 
+Queue length Disco B = 2.330 
+Throughput Disco B = 33.925 

@@ -1,0 +1,48 @@
+>>>>>>>>>>>>>>>>>>>>>>>>> N = 1 <<<<<<<<<<<<<<<<<<<<<<<<<
+Response time CPU = 0.006 
+Response time Disco A = 0.030 
+Response time Disco B = 0.025 
+System response time: 0.430 
+System throughput: 2.327 
+Queue length CPU = 0.186 
+Throughput CPU = 32.573 
+Queue length Disco A = 0.349 
+Throughput Disco A = 11.633 
+Queue length Disco B = 0.465 
+Throughput Disco B = 18.613 
+>>>>>>>>>>>>>>>>>>>>>>>>> N = 2 <<<<<<<<<<<<<<<<<<<<<<<<<
+Response time CPU = 0.007 
+Response time Disco A = 0.040 
+Response time Disco B = 0.037 
+System response time: 0.590 
+System throughput: 3.390 
+Queue length CPU = 0.321 
+Throughput CPU = 47.455 
+Queue length Disco A = 0.686 
+Throughput Disco A = 16.948 
+Queue length Disco B = 0.993 
+Throughput Disco B = 27.117 
+>>>>>>>>>>>>>>>>>>>>>>>>> N = 3 <<<<<<<<<<<<<<<<<<<<<<<<<
+Response time CPU = 0.008 
+Response time Disco A = 0.051 
+Response time Disco B = 0.050 
+System response time: 0.757 
+System throughput: 3.963 
+Queue length CPU = 0.418 
+Throughput CPU = 55.485 
+Queue length Disco A = 1.002 
+Throughput Disco A = 19.816 
+Queue length Disco B = 1.580 
+Throughput Disco B = 31.706 
+>>>>>>>>>>>>>>>>>>>>>>>>> N = 4 <<<<<<<<<<<<<<<<<<<<<<<<<
+Response time CPU = 0.008 
+Response time Disco A = 0.060 
+Response time Disco B = 0.065 
+System response time: 0.929 
+System throughput: 4.303 
+Queue length CPU = 0.487 
+Throughput CPU = 60.249 
+Queue length Disco A = 1.292 
+Throughput Disco A = 21.517 
+Queue length Disco B = 2.221 
+Throughput Disco B = 34.428 
